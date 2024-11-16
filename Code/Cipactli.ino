@@ -1,10 +1,3 @@
-
-
-/*PID 
-CONTROL PID
-SEP 2023
-*/
-
 ///---Define's---///
 #define MAX_SPEED 3200                                               //MAXIMA VELOCIDAD DEL ROBOT, CUANDO TIENE QUE AJUSTAR (CURVAS) valor entre 0 y 3600
 #define MED_SPEED 3000                                              //VELOCIDAD EN RECTAS (valor entre 0 y 3600)
